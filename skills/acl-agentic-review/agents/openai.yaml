@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACL Agentic Review"
+  short_description: "Evidence-based ACL/ARR simulated peer review"
+  default_prompt: "Use $acl-agentic-review to review the supplied paper and provide evidence-grounded scores and a simulated meta review."
